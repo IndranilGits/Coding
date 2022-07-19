@@ -18,3 +18,6 @@ Jmock
 5. Price Listener- Events monitoring for trading , if any matched price happens then it triggers a trading.
 6. On succesfull trading- a success message is printed.
 
+#note
+As few Lombok annotations were not working i explicitly declared the constructor, getter/setters, builder class
+
